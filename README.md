@@ -44,7 +44,6 @@
 		<tr>
 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/192107004-2d2fff80-d207-4916-8a3e-130fee5ee495.png" alt="kafka" title="kafka"/></code></td>
 			<td><code><img width="50" src="https://solace.com/wp-content/themes/orbit-media/resources/images/solace-logo-green-home.png" alt="Solace" title="Solace"/></code></td>
-			<td><code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/50342602-8025-4030-b492-550f2eaa4073" alt="RabbitMQ" title="RabbitMQ"/></code></td>
 		</tr>
 		<tr>
 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/183896132-54262f2e-6d98-41e3-8888-e40ab5a17326.png" alt="AWS" title="AWS"/></code></td>
@@ -57,6 +56,7 @@
 		<tr>
 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png" alt="redis" title="redis"/></code></td>
 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/184323873-026d8eb1-c1de-4b0c-9b63-b0feb2422636.png" alt="Hazelcast" title="Hazelcast"/></code></td>
+			<td><code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/50342602-8025-4030-b492-550f2eaa4073" alt="RabbitMQ" title="RabbitMQ"/></code></td>
 		</tr>
 		<tr>
 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" alt="Git" title="Git"/></code></td>
