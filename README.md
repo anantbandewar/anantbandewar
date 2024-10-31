@@ -55,7 +55,6 @@
 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/179090274-733373ef-3b59-4f28-9ecb-244bea700932.png" alt="Jenkins" title="Jenkins"/></code></td>
 		</tr>
 		<tr>
-			<td><code><img width="50" src="https://github.com/marwin1991/profile-technology-icons/assets/136815194/50342602-8025-4030-b492-550f2eaa4073" alt="RabbitMQ" title="RabbitMQ"/></code></td>
 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/182884894-d3fa6ee0-f2b4-4960-9961-64740f533f2a.png" alt="redis" title="redis"/></code></td>
 			<td><code><img width="50" src="https://user-images.githubusercontent.com/25181517/184323873-026d8eb1-c1de-4b0c-9b63-b0feb2422636.png" alt="Hazelcast" title="Hazelcast"/></code></td>
 		</tr>
